@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  10 OCT 2023 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.9)  10 OCT 2023 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research/conference_101719.tex
-(c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research/conference_101719.tex
+**c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1/conference_101719.tex
+(c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1/conference_101719.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
 (./IEEEtran.cls
@@ -339,12 +339,12 @@ L3 programming layer <2023-08-29>
  ) 
 Here is how much of TeX's memory you used:
  4193 strings out of 474928
- 64076 string characters out of 5763562
+ 64082 string characters out of 5763562
  1935785 words of memory out of 5000000
  25707 multiletter control sequences out of 15000+600000
  599318 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,521b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,523b,304s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2023/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 Output written on conference_101719.pdf (2 pages, 57947 bytes).
 PDF statistics:

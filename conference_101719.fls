@@ -1,8 +1,8 @@
-PWD c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research
+PWD c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research/conference_101719.tex
+INPUT c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1/conference_101719.tex
 OUTPUT conference_101719.log
 INPUT ./IEEEtran.cls
 INPUT IEEEtran.cls
