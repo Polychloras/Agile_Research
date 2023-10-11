@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.10)  11 OCT 2023 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.10)  11 OCT 2023 16:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -270,26 +270,26 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 38.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 37.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (81.0206pt too wide) in paragraph at lines 38--38
+Overfull \hbox (81.0206pt too wide) in paragraph at lines 37--37
  [] 
  []
 
 
-Overfull \hbox (81.0206pt too wide) in paragraph at lines 38--38
+Overfull \hbox (81.0206pt too wide) in paragraph at lines 37--37
  [] 
  []
 
 
-Overfull \hbox (81.0206pt too wide) in paragraph at lines 38--38
+Overfull \hbox (81.0206pt too wide) in paragraph at lines 37--37
  [] 
  []
 
@@ -297,7 +297,7 @@ Overfull \hbox (81.0206pt too wide) in paragraph at lines 38--38
 
 
 ]
-Underfull \hbox (badness 1642) in paragraph at lines 59--60
+Underfull \hbox (badness 1642) in paragraph at lines 58--59
 []\OT1/ptm/m/n/8 C. Miller, P. Rodeghero, M. A. Storey, D. Ford, and T. Zim-
  []
 
@@ -324,7 +324,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  57i,14n,62p,1662b,354s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on conference_101719.pdf (2 pages, 56035 bytes).
+Output written on conference_101719.pdf (2 pages, 56058 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  19 compressed objects within 1 object stream
