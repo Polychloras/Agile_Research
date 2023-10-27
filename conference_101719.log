@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  27 OCT 2023 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.9.29)  27 OCT 2023 18:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -259,7 +259,6 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 25.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
  (c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -297,15 +296,15 @@ Before submitting the final camera ready copy, remember to:
 
 ] (./conference_101719.aux) ) 
 Here is how much of TeX's memory you used:
- 3994 strings out of 478599
- 58118 string characters out of 5858101
+ 3971 strings out of 478599
+ 57757 string characters out of 5858101
  370459 words of memory out of 5000000
- 21846 multiletter control sequences out of 15000+600000
- 439802 words of font info for 107 fonts, out of 8000000 for 9000
+ 21823 multiletter control sequences out of 15000+600000
+ 436460 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,14n,66p,1666b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 57i,14n,66p,1666b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmb8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:/texlive/2021/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on conference_101719.pdf (2 pages, 64160 bytes).
+Output written on conference_101719.pdf (2 pages, 62712 bytes).
 PDF statistics:
  37 PDF objects out of 1000 (max. 8388607)
  22 compressed objects within 1 object stream
