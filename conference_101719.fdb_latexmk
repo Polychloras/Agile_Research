@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1696973883 "c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1696973884 0
+["pdflatex"] 1696979047 "c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1/conference_101719.tex" "conference_101719.pdf" "conference_101719" 1696979049 0
   "IEEEtran.cls" 1696904726 288304 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
-  "c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research/conference_101719.tex" 1696973881 7241 63bfb3b82af6a916d57490f2a571b244 ""
+  "c:/Users/Owner/Documents/conference-latex-template_10-17-19/Agile_Research-1/conference_101719.tex" 1696979046 7898 ccb0f073912b01abd48acd9a9b69d08e ""
   "c:/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1696882470 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1696883220 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1696887520 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -71,8 +71,8 @@
   "c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1696888279 4750280 f48571cebc263e8ce46fc4b29e82313c ""
   "c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1696888551 8183286 6ef44516f85f457b4847ef96c48dc97f ""
   "c:/texlive/2023/texmf.cnf" 1696888243 713 e69b156964470283e0530f5060668171 ""
-  "conference_101719.aux" 1696973884 1269 61ba3df5aff7b0891dd927d5347ab9b2 "pdflatex"
-  "conference_101719.tex" 1696973881 7241 63bfb3b82af6a916d57490f2a571b244 ""
+  "conference_101719.aux" 1696979049 1254 fc2fbccf33316dda15379a424eced353 "pdflatex"
+  "conference_101719.tex" 1696979046 7898 ccb0f073912b01abd48acd9a9b69d08e ""
   (generated)
   "conference_101719.aux"
   "conference_101719.log"
